@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV files if not needed
+# Uncomment the following line if you want to exclude CSVs
+# *.csv
+
+# Other sensitive files
+config.py

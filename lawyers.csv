@@ -1,0 +1,7 @@
+name,rating,lat,lng,city,specialization,price
+Lawyer A,4.5,40.7128,-74.0060,New York,Family Law,200
+Lawyer B,4.0,40.7138,-74.0065,New York,Criminal Law,250
+Lawyer C,5.0,40.7148,-74.0070,New York,Corporate Law,300
+Lawyer D,4.2,34.0522,-118.2437,Los Angeles,Family Law,220
+Lawyer E,3.9,34.0525,-118.2440,Los Angeles,Criminal Law,180
+Lawyer F,4.8,41.8781,-87.6298,Chicago,Corporate Law,350
